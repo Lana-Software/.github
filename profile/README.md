@@ -1,4 +1,4 @@
-<img src="https://github.com/Lana-Software/.github/blob/main/images/readme_banner.png?raw=true">
+<img src="../tree/main/images/readme_banner.png" alt="company banner">
 
 ## About Us
 
