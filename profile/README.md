@@ -1,7 +1,29 @@
-## Hi there 👋
+<img src="https://github.com/Lana-Software/.github/assets/110570465/814ff486-3956-4970-ac54-84b31212cb10)">
+
+## About Us
+
+We develop stuff
+
+## Join Us
+
+We are always looking for ways to involve people from all around the world in our projects, here are some options if you're interested in collaborating:
+
+- [Crowdin (Translations)](crowdin.com/lanasoftware)
+- [Forms (Feedback)](forms.google.com)
+
+## Resources
+
+You can find all our documentation either on [our website](lanasoftware.com), or here:
+
+- [Confluence](confluence.com/lanasoftware)
+
+## Did you know
+
+- Lana app development should have started months ago but we haven't done sh*t
+- we love pineapple pizza
+- we love playing volleyball
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
