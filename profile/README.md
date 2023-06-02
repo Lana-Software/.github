@@ -1,4 +1,4 @@
-<img src="../tree/main/images/readme_banner.png" alt="company banner">
+<img src="../main/images/readme_banner.png" alt="company banner">
 
 ## About Us
 
