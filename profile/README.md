@@ -1,4 +1,4 @@
-<img src="https://github.com/Lana-Software/.github/assets/110570465/814ff486-3956-4970-ac54-84b31212cb10)">
+<img src="../images/readme_banner.png">
 
 ## About Us
 
