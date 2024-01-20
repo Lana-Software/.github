@@ -14,7 +14,7 @@ devteam:
 We are always looking for ways to involve people from all around the world in our projects, here are some options if you're interested in collaborating:
 
 - [Crowdin (Translations)](crowdin.com/lanasoftware)
-- [Forms (Feedback)](forms.google.com)
+- [Forms (Feedback)](https://forms.gle/jvEjYewxCpoNUMf8A)
 
 ## Resources
 
@@ -25,9 +25,9 @@ You can find all our documentation either on [our website](lanasoftware.com), or
 ## Did you know
 
 - Lana app development should have started months ago but we haven't done sh*t.
-- we love pineapple pizza.
+- We love pineapple pizza.
 - The Gone series is the best book series ever created.
-- we love playing volleyball.
+- We love playing volleyball.
 
 <!--
 **Here are some ideas to get you started:**
