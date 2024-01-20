@@ -1,1 +1,1 @@
-You're never alone when you're with Christ.
+You're never alone when you're with Satan.
