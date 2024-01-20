@@ -1,6 +1,6 @@
 <img src="../main/images/readme_banner.png" alt="company banner">
 
-## About Us
+## About us
 
 We are the best team of independent developers, creating applications that enhance the lives of our users (or at least that's what we like to think).
 
@@ -9,7 +9,7 @@ devteam:
 - [Juan Pablo Morales](https://github.com/Kolozuz), professional translator (milf tester)
 - [John Steban Lopez](https://github.com/JohnGolgota), He is never there when we need him
 
-## Join Us
+## Join us
 
 We are always looking for ways to involve people from all around the world in our projects, here are some options if you're interested in collaborating:
 
