@@ -3,10 +3,11 @@
 ## About Us
 
 We are the best team of independent developers, creating applications that enhance the lives of our users (or at least that's what we like to think).
+
 devteam:
-- Duvan Espinal Arboledahttps://github.com/DuvanArwenLazar , the fucking leader (He doesn't do shit)
-- Juan Pablo Morales: https://github.com/Kolozuz , professional translator (milf tester)
-- John Steban Lopez: https://github.com/JohnGolgota , He is never there when we need him
+- [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar), the fucking leader (He doesn't do shit)
+- [Juan Pablo Morales](https://github.com/Kolozuz), professional translator (milf tester)
+- [John Steban Lopez](https://github.com/JohnGolgota), He is never there when we need him
 
 ## Join Us
 
