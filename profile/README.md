@@ -2,7 +2,10 @@
 
 ## About Us
 
-We develop stuff
+We are the best team of independent developers, creating applications that enhance the lives of our users (or at least that's what we like to think).
+Lana Team:
+- https://github.com/DuvanArwenLazar
+- 
 
 ## Join Us
 
