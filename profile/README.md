@@ -5,9 +5,9 @@
 We are the best team of independent developers, creating applications that enhance the lives of our users (or at least that's what we like to think).
 
 devteam:
-- [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar), the fucking leader (He doesn't do shit)
-- [Juan Pablo Morales](https://github.com/Kolozuz), professional translator (milf tester)
-- [John Steban Lopez](https://github.com/JohnGolgota), He is never there when we need him
+- [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar), the fucking leader (He doesn't do shit).
+- [Juan Pablo Morales](https://github.com/Kolozuz), professional translator (milf tester).
+- [John Steban Lopez](https://github.com/JohnGolgota), He is never there when we need him.
 
 ## Join us
 
@@ -24,9 +24,10 @@ You can find all our documentation either on [our website](lanasoftware.com), or
 
 ## Did you know
 
-- Lana app development should have started months ago but we haven't done sh*t
-- we love pineapple pizza
-- we love playing volleyball
+- Lana app development should have started months ago but we haven't done sh*t.
+- we love pineapple pizza.
+- The Gone series is the best book series ever created.
+- we love playing volleyball.
 
 <!--
 **Here are some ideas to get you started:**
