@@ -5,9 +5,10 @@ labels: ["feature", "enhancement"]
 assignees: 
   - Kolozuz
 
-- type: markdown
-  attributes:
-    value: |
+body:
+  - type: markdown
+    attributes:
+      value: |
         <!-- You don't need to delete the comments -->
         <!-- These comments are only visible when writing the issue -->
         # Description <!-- Details of the current situation and the expected outcome -->
