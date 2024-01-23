@@ -2,39 +2,32 @@
 
 ## About us
 
-We are the best team of independent developers, creating applications that enhance the lives of our users (or at least that's what we like to think).
+We are a small team of Colombian independent developers, creating applications that enhance the lives of our users (or at least that's what we like to think).
 
 devteam:
 - [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar), the fucking leader (He doesn't do shit).
 - [Juan Pablo Morales](https://github.com/Kolozuz), professional translator (milf tester).
 - [John Steban Lopez](https://github.com/JohnGolgota), he is never there when we need him.
 
-## Join us
+## Contribution
 
-We are always looking for ways to involve people from all around the world in our projects, here are some options if you're interested in collaborating:
+>[NOTE]
+>Don't forget to check our [Contribution Guidelines]() and [Code of Conduct]() before anything.
 
-- [Crowdin (Translations)](crowdin.com/lanasoftware)
+We are always open for contributions as we believe different ideas and points of view are incredibly valuable for any software, hence most of our projects are open source, feel free to check our (Active Projects)[] list, issues and PR's are always welcome, also here's some useful links if you're interested in other ways of collaborating:
+
+- [Crowdin (Translations for our current projects)](crowdin.com/lanasoftware)
 - [Forms (Feedback)](https://forms.gle/jvEjYewxCpoNUMf8A)
 
 ## Resources
 
-You can find all our documentation either on [our website](lanasoftware.com), or here:
-
-- [Confluence](confluence.com/lanasoftware)
+You can find documentation from our different projects either on [our website](lanasoftware.com) or in our main (github Wiki)[https://github.com/Lana-Software/.github/wiki], we also include docs in each repositorie's Wiki section.
 
 ## Did you know
 
 - Lana app development should have started months ago but we haven't done sh*t.
 - We love pineapple pizza.
-- The Gone series is the best book series ever created.
+- The Gone series is in fact a book.
 - We love playing volleyball.
+- Rats make us crazy
 
-<!--
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
