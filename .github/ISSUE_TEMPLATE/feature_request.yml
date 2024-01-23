@@ -7,22 +7,25 @@ assignees:
   - Kolozuz
 
 body:
+  - type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to submit your suggestion! Remember that you can use markdown formatting.
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
-      description: "Please search to see if an issue already exists for the feature you're proposing."
+      description: Please search to see if an issue already exists for the feature you're proposing.
       options:
-      - label: "I've checked that this issue doesn't already exist."
+      - label: I've checked that this issue doesn't already exist.
         required: true
   - type: textarea
     id: desc
     attributes:
-      label: "Description"
-      description: "Describe your idea/suggestion, how do you expect it to be? the more specific the better."
+      label: Description
+      description: Describe your idea/suggestion, how do you expect it to be? the more specific the better.
       placeholder: |
         ex. I want to have ponies that fly across the page...
         Because ponies are cool...
-      render: markdown
     validations:
       required: true
   - type: textarea
@@ -30,20 +33,17 @@ body:
     attributes:
       label: "Current Behaviour / Implementation"
       description: |
-          "Does your idea or something similar already exists? Tell us why it should change or why it doesn't meet the requirements.
-          Type None if nothing like this exists"
+          Does your idea or something similar already exists? Tell us why it should change or why it doesn't meet the requirements.
+          Type None if nothing like this exists
       placeholder: |
           The current implementation sucks cause there aren't ponies, just rats! 
           and rats make me crazy...
-      render: markdown
     validations:
       required: true
   - type: textarea
     id: notes
     attributes:
       label: "Additional Context / Notes"
-      description: "Information that may be useful for the implementation of this feature, add any other context or screenshots about the feature request here."
+      description: Information that may be useful for the implementation of this feature, add any other context or screenshots or little code snippets about the feature request here.
       placeholder: |
-          >[!NOTE]
-          >they locked me in a room, a rubber room..
-      render: markdown
+          > they locked me in a room, a rubber room..
