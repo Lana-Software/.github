@@ -9,8 +9,8 @@ assignees:
 body:
   - type: markdown
     attributes:
-    value: |
-      Thanks for taking the time to submit your suggestion! Remember that you can use markdown formatting.
+      value: |
+        Thanks for taking the time to submit your suggestion! Remember that you can use markdown formatting.
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
