@@ -1,18 +1,26 @@
 name: Feature request
 description: Suggest an idea for this project
 title: "✨ [Feature Request]: "
-labels: ["feature", "enhancement"]
+labels: ["enhancement"]
 assignees: 
   - Kolozuz
 
 body:
-  - type: markdown
+  - type: textarea
+    id: desc
+    attributes:
+      label: "Description"
+      description: Describe what you would like as a new feature, and the reason for it
+      value: |
+        I want you to add ponies that fly across the page...
+        Because ponies are cool...
+    validations:
+      required: true
+- type: markdown
     attributes:
       value: |
         <!-- You don't need to delete the comments -->
         <!-- These comments are only visible when writing the issue -->
-        # Description <!-- Details of the current situation and the expected outcome -->
-        
         ## Acceptance Criteria <!-- Complete list of explicitly required items for the development to be accepted and implemented -->
         
         - [ ] 
