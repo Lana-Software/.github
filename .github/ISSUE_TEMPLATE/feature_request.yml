@@ -18,7 +18,7 @@ body:
       required: true
   - type: markdown
       attributes:
-        value: |
+        value:
           <!-- You don't need to delete the comments -->
           <!-- These comments are only visible when writing the issue -->
           ## Acceptance Criteria <!-- Complete list of explicitly required items for the development to be accepted and implemented -->
@@ -37,3 +37,4 @@ body:
           
           ### Additional Context / Notes 
           <!-- Information that is tangentially or indirectly related to the issue, add any other context or screenshots about the feature request here.-->
+          
