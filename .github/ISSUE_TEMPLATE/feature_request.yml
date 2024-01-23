@@ -10,11 +10,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        "
          **Thanks for taking the time to submit your suggestion! :heart:**
          >[!NOTE]
          >Remember that you can use markdown formatting.
-         "
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
