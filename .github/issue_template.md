@@ -1,11 +1,8 @@
 ---
 name: Blank issue
 description: Default fully customizable issue template
-projects: Lana-Software/3
-asignees:
-  - Kolozuz
-  - JohnGolgota
-  - DuvanArwenLazar
+projects: "Lana-Software/3"
+asignees: ["Kolozuz", "JohnGolgota", "DuvanArwenLazar"]
 ---
 
 <!-- You don't need to delete the comments -->
