@@ -8,7 +8,7 @@ assignees:
 
 body:
   - type: markdown
-  attributes:
+    attributes:
     value: |
       Thanks for taking the time to submit your suggestion! Remember that you can use markdown formatting.
   - type: checkboxes
