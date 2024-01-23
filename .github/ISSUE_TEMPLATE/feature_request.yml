@@ -2,38 +2,48 @@ name: Feature request
 description: Suggest an idea for this project
 title: "✨ [Feature Request]: "
 labels: ["enhancement"]
+projects: Lana-Software/3
 assignees: 
   - Kolozuz
 
 body:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: "Please search to see if an issue already exists for the feature you're proposing."
+      options:
+      - label: "I've checked that this issue doesn't already exist."
+        required: true
   - type: textarea
     id: desc
     attributes:
       label: "Description"
-      description: Describe what you would like as a new feature, and the reason for it
-      value: |
-        I want you to add ponies that fly across the page...
+      description: "Describe your feature idea, how you expect it to be, the more specific the better."
+      placeholder: |
+        ex. I want to have ponies that fly across the page...
         Because ponies are cool...
+      render: markdown
     validations:
       required: true
-  - type: markdown
+  - type: textarea
+    id: current
     attributes:
-      value: |
-          <!-- You don't need to delete the comments -->
-          <!-- These comments are only visible when writing the issue -->
-          ## Acceptance Criteria <!-- Complete list of explicitly required items for the development to be accepted and implemented -->
-          
-          - [ ] 
-          - [ ] 
-          
-          
-          ### Current 
-          <!-- If it exists. The solution implemented at the time of writing the issue, why it should change or why it does not meet the requirements -->
-          
-          
-          ### Possible Solutions 
-          <!-- Suggestions can come from the developer who assigned the issue or the assigned developer -->
-          
-          
-          ### Additional Context / Notes 
-          <!-- Information that is tangentially or indirectly related to the issue, add any other context or screenshots about the feature request here.-->
+      label: "Current Behaviour / Implementation"
+      description: |
+          "Does your idea or something similar already exists? Tell us why it should change or why it doesn't meet the requirements.
+          Type None if nothing like this exists"
+      placeholder: |
+          The current implementation sucks cause there aren't ponies, just rats! 
+          and rats make me crazy...
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Additional Context / Notes"
+      description: "Information that may be useful for the implementation of this feature, add any other context or screenshots about the feature request here."
+      placeholder: |
+          >[!NOTE]
+          >they locked me in a room, a rubber room..
+      render: markdown
