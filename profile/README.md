@@ -5,8 +5,8 @@
 We are a small team of Colombian independent developers, creating applications that enhance the lives of our users (or at least that's what we like to think).
 
 devteam:
-- [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar) aka DuvanArwenLazar, the fucking leader (He doesn't do sh*t).
-- [Juan Pablo Morales](https://github.com/Kolozuz) aka Kolozuz, professional translator (milf tester).
+- [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar) aka DuvanArwenLazar, the freaking leader (He doesn't do sh*t).
+- [Juan Pablo Morales](https://github.com/Kolozuz) aka Kolozuz, the translator and issue manager.
 - [John Steban Lopez](https://github.com/JohnGolgota) aka Erika, the API's master.
 
 ## Contribution
