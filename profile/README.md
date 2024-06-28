@@ -7,7 +7,7 @@ We are a small team of Colombian independent developers, creating applications t
 devteam:
 - [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar) aka DuvanArwenLazar, the freaking leader (He doesn't do sh*t).
 - [Juan Pablo Morales](https://github.com/Kolozuz) aka Kolozuz, the translator and issue manager.
-- [John Steban Lopez](https://github.com/JohnGolgota) aka Erika, the API's master.
+- [John Steban Lopez](https://github.com/JohnGolgota) aka Erika, API's master.
 
 ## Contribution
 
@@ -25,6 +25,7 @@ We do gaming and coding streams on twitch every once in a while, go check our ch
 
 <a href="https://www.twitch.tv/eldusvan"><img src="https://img.shields.io/badge/eldusvan-9146ff?style=flat&logo=twitch&logoColor=white"/></a>
 <a href="https://www.twitch.tv/krdinalgaming"><img src="https://img.shields.io/badge/-krdinalgaming-9146ff?style=flat&logo=twitch&logoColor=white"/></a>
+<a href="https://www.twitch.tv/humfreccs"><img src="https://img.shields.io/badge/-humfreccs-9146ff?style=flat&logo=twitch&logoColor=white"/></a>
 
 ### Docs
 
